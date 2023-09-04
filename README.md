@@ -1,4 +1,4 @@
-### Hi there 👋
+**qhvg/qhvg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <!--
 **qhvg/qhvg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
